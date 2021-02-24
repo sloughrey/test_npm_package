@@ -1,6 +1,6 @@
 {
   "name": "@sloughrey/test_npm_package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package used to learn npm functionality",
   "main": "index.js",
   "scripts": {

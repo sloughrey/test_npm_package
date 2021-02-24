@@ -1,0 +1,15 @@
+{
+  "name": "@sloughrey/test_npm_package",
+  "version": "1.0.1",
+  "description": "A package used to learn npm functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "noob"
+  ],
+  "author": "s.a.loughrey@gmail.com",
+  "license": "ISC"
+}

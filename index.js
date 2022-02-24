@@ -1,1 +1,1 @@
-console.log('this is the entry point');
+export * from "./src";

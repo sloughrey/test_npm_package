@@ -1,6 +1,6 @@
 {
   "name": "@sloughrey/test_npm_package",
-  "version": "1.0.2",
+  "version": "1.0.11",
   "description": "A package used to learn npm functionality",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
     "noob"
   ],
   "author": "s.a.loughrey@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }

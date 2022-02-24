@@ -4,4 +4,4 @@ export function goodbyeWorld() {
 
 export function goodbyeWorld2() {
     console.log('goodbye world 2');
-}z
+}
